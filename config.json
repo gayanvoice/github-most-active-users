@@ -99,7 +99,7 @@
     { "country":  "panama", "geoName": "panama", "cities": ["panama-city", "tocumen"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" },
     { "country":  "paraguay", "geoName": "paraguay", "cities": ["asunción ", "ciudad-del-este", "encarnacion", "luque-paraguay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" },
     { "country":  "peru", "geoName": "peru", "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" },
-    { "country":  "philippines", "geoName": "philippines", "cities": ["manila", "quezon-city", "davao-city", "cebu-city", "makati", "baguio"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" },
+    { "country":  "philippines", "geoName": "philippines", "cities": ["manila", "quezon-city", "davao-city", "cebu-city", "makati", "baguio", "koronadal-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" },
     { "country":  "poland", "geoName": "poland", "cities": ["warsaw", "kraków", "wrocław", "gdańsk", "poznań"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
     { "country":  "portugal", "geoName": "portugal", "cities": ["lisbon", "porto", "braga", "coimbra"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" },
     { "country":  "qatar", "geoName": "qatar", "cities": ["doha"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" },
